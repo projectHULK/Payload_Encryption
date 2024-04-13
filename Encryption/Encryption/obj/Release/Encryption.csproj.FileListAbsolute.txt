@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Encryption\Encryption\bin\Release\Encryption.exe.config
+C:\Users\Administrator\source\repos\Encryption\Encryption\bin\Release\Encryption.exe
+C:\Users\Administrator\source\repos\Encryption\Encryption\bin\Release\Encryption.pdb
+C:\Users\Administrator\source\repos\Encryption\Encryption\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\Encryption\Encryption\obj\Release\Encryption.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Encryption\Encryption\obj\Release\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Encryption\Encryption\obj\Release\Encryption.csproj.Up2Date
+C:\Users\Administrator\source\repos\Encryption\Encryption\obj\Release\Encryption.exe
+C:\Users\Administrator\source\repos\Encryption\Encryption\obj\Release\Encryption.pdb
