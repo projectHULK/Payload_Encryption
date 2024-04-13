@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Runner\Runner\obj\Release\Runner.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Runner\Runner\obj\Release\Runner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Runner\Runner\bin\Release\Runner.exe.config
+C:\Users\Administrator\source\repos\Runner\Runner\bin\Release\Runner.exe
+C:\Users\Administrator\source\repos\Runner\Runner\bin\Release\Runner.pdb
+C:\Users\Administrator\source\repos\Runner\Runner\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\Runner\Runner\obj\Release\Runner.csproj.Up2Date
+C:\Users\Administrator\source\repos\Runner\Runner\obj\Release\Runner.exe
+C:\Users\Administrator\source\repos\Runner\Runner\obj\Release\Runner.pdb
